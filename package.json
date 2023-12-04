@@ -1,0 +1,14 @@
+{
+  "name": "poc",
+  "module": "commonjs",
+  "scripts": {
+    "build": "yarn tsc"
+  },
+  "dependencies": {
+    "openapi-fetch": "^0.8.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  },
+  "packageManager": "yarn@3.5.1"
+}
